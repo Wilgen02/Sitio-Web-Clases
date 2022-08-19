@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header   {
+    border: 2px  solid;
+    border-color: rgb(207, 175, 237);
+    height:150 ;
+}
+
+header nav  {
+    border: 2px solid;
+    border-color: tomato;
+    height: 80px;
+}
+header nav ul {
+    border: 2px  solid;
+    border-color:teal;
+    height:70px ;
+}
+header nav ul li{
+    margin-top: 20px;
+    border: 2px  solid;
+    border-color:crimson;
+    height:90;
+    width:200px  ;
+    list-style: none;
+    float:  left;
+}
+header nav ul li a{
+    
+    border: 2px  solid;
+    border-color: aqua;
+    
+}
